@@ -2,9 +2,9 @@
 
 I'm Taibo Wu, studying at University of Southampton.
 
-- 🔭 I’m currently working on Nimbus (a Fritzing like Rust EDA)
+- 🔭 I’m currently working on school work
 - 🌱 I’m currently learning CS/EEE/Rust
-- 👯 I’m looking to collaborate on project Nimbus
+<!-- - 👯 I’m looking to collaborate on project Nimbus -->
 - 📫 Email: nayamior@outlook.com
 - 💬 Ask me about anything [here](https://github.com/nayamior/nayamior/issues)
 
