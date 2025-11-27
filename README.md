@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm ___, studying at University of Southampton.
+I'm Nayami, studying at University of Southampton.
 
-- 🔭 I’m currently on summer holiday
+- 🔭 I’m currently on coursework & individual project & Sho language
 - 🌱 I’m currently learning CS/EEE/Rust
 - 📫 Email: nayamior@outlook.com
 - 💬 Ask me about anything [here](https://github.com/nayamior/nayamior/issues)
@@ -17,7 +17,7 @@ I'm ___, studying at University of Southampton.
 ### Top Repositories
 
 <a href="https://github.com/nayamior/TruthTablePrinter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nayamior&repo=TruthTablePrinter" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nayamior&repo=sho" />
 </a>
 <a href="https://github.com/nayamior/WechatArticleSearcher">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nayamior&repo=WechatArticleSearcher" />
