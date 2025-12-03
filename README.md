@@ -9,7 +9,7 @@ I'm Nayami, studying at University of Southampton.
 
 <br />
 
-|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayamiOR)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayamior&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
+|[![Anurag's GitHub stats](https://github-readme-stats-mu-ten-99.vercel.app/api?username=NayamiOR)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-mu-ten-99.vercel.app/api/top-langs/?username=nayamior&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
 |---|---|
 
 <br />
@@ -17,15 +17,15 @@ I'm Nayami, studying at University of Southampton.
 ### Top Repositories
 
 <a href="https://github.com/nayamior/TruthTablePrinter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nayamior&repo=sho" />
+  <img align="center" src="https://github-readme-stats-mu-ten-99.vercel.app/api/pin/?username=nayamior&repo=sho" />
 </a>
 <a href="https://github.com/nayamior/WechatArticleSearcher">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nayamior&repo=WechatArticleSearcher" />
+  <img align="center" src="https://github-readme-stats-mu-ten-99.vercel.app/api/pin/?username=nayamior&repo=WechatArticleSearcher" />
 </a>
 
 <br/>
 <br/>
 
 <a href="https://github.com/nayamior/RustLoxFirst">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nayamior&repo=RustLoxFirst" />
+  <img align="center" src="https://github-readme-stats-mu-ten-99.vercel.app/api/pin/?username=nayamior&repo=RustLoxFirst" />
 </a>
